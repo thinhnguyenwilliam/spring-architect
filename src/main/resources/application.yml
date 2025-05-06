@@ -11,7 +11,7 @@ spring:
 
   # Datasource configuration
   datasource:
-    url: jdbc:mysql://localhost:3306/identity_service
+    url: jdbc:mysql://localhost:3306/tip_js_java
     username: root
     password: 1234
     driver-class-name: com.mysql.cj.jdbc.Driver
